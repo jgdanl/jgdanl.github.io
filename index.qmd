@@ -1,6 +1,6 @@
 ---
 title: "Jack Gramlich" 
-about:
+about: ""
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
   image-width: 16em
@@ -9,33 +9,33 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/jack-gramlich
     - icon: instagram
       text: Instagram
       href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/jgdanl
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://jgdanl.github.io/resume-jack-gramlich.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:jcg14@geneseo.edu
 
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+My name is Jack Gramlich. I am an Economics and Data Analyics student at SUNY Geneseo. When I'm not studying and learning, I enjoy working out, playing golf, and playing video games.
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+B.A. in Economics | Sep 2020 - Dec 2024 <br>
+Minor in Data Analytics
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Wegmans Food Markets | Data Analyst Tutor | Jan 2022 - Jan 2023
 
 
