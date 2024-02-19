@@ -1,6 +1,6 @@
 ---
 title: "Jack Gramlich" 
-about: ""
+about: 
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
   image-width: 16em
@@ -10,9 +10,6 @@ about: ""
     - icon: linkedin
       text: LinkedIn
       href: www.linkedin.com/in/jack-gramlich
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com
     - icon: github
       text: GitHub
       href: https://github.com/jgdanl
