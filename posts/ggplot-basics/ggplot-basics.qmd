@@ -1,0 +1,46 @@
+---
+title: "ggplot Basics"
+author: "Jack Gramlich"
+date: "2024-1-30"
+categories: [starwars, code, analysis]
+image: "image.png"
+
+execute: 
+  warning: false
+  message: false
+  
+toc: true
+---
+```{r}
+#| include: false
+
+library(tidyverse)
+library(skimr)
+library(ggthemes)
+library(hrbrthemes)
+
+theme_set(theme_ipsum()+
+          theme(strip.background =element_rect(fill="lightgray"),
+                axis.title.x  = element_text(angle = 0,
+                                            size = rel(1.5),
+                                            margin = margin(10,0,0,0)),
+                axis.title.y  = element_text(angle = 0,
+                                            size = rel(1.5),
+                                            margin = margin(0,10,0,0))
+                )
+          )
+```
+
+Today, I am going to talk about some of the things we've learned so far. 
+
+First, we discussed using ggplot to visualize our data. For instance, creating simple scatter plots and making different variations of them.
+
+```{r}
+ggplot(data = mpg) +
+  geom_point(mapping = 
+               aes(x = displ,
+                   y = hwy,
+                   color = class) )
+
+```
+
